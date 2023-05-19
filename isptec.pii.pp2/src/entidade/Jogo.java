@@ -90,6 +90,7 @@ public class Jogo {
                     //adiciona a letra a palavra apresentada na consola
                     aux = completaLetra(palavra, aux, letra);
                 } else {
+                    //Jesus matriz
                     System.out.println("Letra errada");
                     tentativas--;
                 }
